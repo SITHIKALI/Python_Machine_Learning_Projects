@@ -5,5 +5,5 @@
 ## Project 2: Salary estimation using K-NEAREST NEIGHBOUR
       K-Nearest Neighbor is a simple yet powerful supervised machine learning algorithm used for both classification and regression tasks. Your notebook uses it for classification (predicting salary categories).
 
-## Project 3:  
+
 
